@@ -1,0 +1,29 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store         # macOS
+Thumbs.db         # Windows
+
+# IDE / Editor specific files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# npm package lock file (if you want to ignore it)
+package-lock.json  # Optional, only if you want to ignore it
+
+# Environment files
+.env
+
+# Build directories
+/build/
+/dist/
+
+# Test coverage directory
+coverage/
+frontend/
