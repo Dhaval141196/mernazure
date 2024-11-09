@@ -26,3 +26,4 @@ package-lock.json  # Optional, only if you want to ignore it
 
 # Test coverage directory
 coverage/
+frontend/
